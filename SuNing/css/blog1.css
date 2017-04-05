@@ -1,0 +1,188 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #E3E3E5;
+	background-image: url(../photo/bg.jpg);
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-position: center top;
+}
+.demo1{
+	border: 1px solid red;
+	width: 72%;
+	height: 1400px;
+	margin: 0 auto;
+}
+.demo2{
+	width: 100%;
+	height: 7%;
+	border: 1px solid green;
+}
+.demo3{
+	background-color: #fff;
+	width: 70%;
+	height: 83%;
+	border: 1px solid red;
+	float: left;
+}
+.demo4{
+	background-color: #fff;
+	width: 28%;
+	height: 83%;
+	border: 1px solid red;
+	float: right;
+}
+.demo5{
+	width: 99%;
+	height: 48%;
+	
+	margin-bottom: 2px;
+}
+.demo6{
+	width: 99%;
+	height: 50px;
+	
+	line-height: 50px
+}
+.demo5 h3{
+	color: #664666;
+	margin-left: 10px;
+}
+.demo5 span{
+	color: #DB5E5E;
+}
+.demo6 ul{
+	list-style: none;
+	
+}
+.demo6 ul li{
+	text-align: center;
+	display: inline-block;
+	width: 130px;
+	
+	height: 30px;
+	line-height: 30px;
+	margin-left: 15px;
+	border-radius: 5px;
+	
+}
+.demo6 ul li a{
+	text-decoration: none;
+	border-radius: 5px;
+	display: block;
+	
+	width: 130px;
+	height: 30px;
+	color: #527071;
+	font-weight: 600;
+}
+.demo6 ul li a:hover{
+	background-color: #829696;
+}
+.demo7{
+	width: 100%;
+	height: 100px;
+	border: 1px solid red;
+}
+.demo8{
+	width: 100%;
+	height: 91%;
+	border: 1px solid green;
+}
+.demo7 .img1{
+	margin-left: 20px;
+}
+.span1{
+	font-size: 20px;
+	font-weight: 600px;
+	color: #D242DF;
+}
+.span2{
+	font-size: 20px;
+	font-weight: 600px;
+	color: #3798A5;
+}
+.demo9{
+	
+	width: 100%;
+	height: 200px;
+	margin: 13px 0;
+}
+.demo9 p{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.demo10{
+	
+	width: 100%;
+	height: 160px;
+	margin-top: 5px;
+}
+.demo11{
+	border: 1px solid #ccc;
+	width: 216px;
+	height: 147px;
+	margin-left: 10px;
+	float: left;
+	padding: 3px;
+}
+.demo11 img{
+	width: 216px;
+	height: 146px;
+}
+.demo12{
+	float: left;
+	width: 67%;
+	height: 150px;
+	border: 1px solid red;
+	margin-left: 12px;
+}
+.demo13{
+	font-size: 13px;
+}
+.demo13{
+	
+	padding-left: 20px;
+	margin-top: 10px;
+}
+.demo13 button{
+	width: 70px;
+	height: 23px;
+	color: #F55C2B;
+	border: 2px solid #C5B5B5;
+	outline: none;
+	background-color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+	border-radius: 2px;
+}
+.demo14{
+	width: 100%;
+	height: 39%;
+	border: 1px solid red;
+	margin-bottom: 3%;
+}
+.demo15{
+	width: 100%;
+	height: 19%;
+	border: 1px solid red;
+	margin-bottom: 3%;
+}
+.demo16{
+	width: 100%;
+	height: 39%;
+	border: 1px solid red;
+}
+.demo17{
+	border: 1px solid #787878;
+	width: 93%;
+	height: 8%;
+	margin: 3%;
+}
+.demo17 h3{
+	margin-top: 7px;
+	margin-left: 10px;
+}
+
